@@ -26,3 +26,8 @@ License info (click to view license):
 
 # The prompt is in [prompt.md](prompt.md)!
 # If you want the plain-text prompt with no instructions, go to [prompt-plain.txt](https://github.com/BeepyDev/LanguageGPT/raw/main/prompt-plain.txt).
+
+Map:
+- Copy the prompt - links above
+- [See what's coming next](roadmap.md)
+- [License info](LICENSE)

@@ -25,4 +25,4 @@ License info (click to view license):
 [![enter image description here](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 # The prompt is in [prompt.md](prompt.md)!
-# If you want the plain-text prompt with no instructions, go to [prompt-plain.txt](prompt-plain.txt).
+# If you want the plain-text prompt with no instructions, go to [prompt-plain.txt](https://github.com/BeepyDev/LanguageGPT/raw/main/prompt-plain.txt).

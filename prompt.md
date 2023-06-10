@@ -1,9 +1,9 @@
 ## NOTE - READ BEFORE YOU COPY THE PROMPT
--   Make sure to replace text surrounded with ***ASTERISKS*** with your info. 'LANGUAGE' is the language to learn, 'NATIVE LANGUAGE' is the first language you speak. 'NAME' is your name.
--   Asegúrate de reemplazar el texto rodeado por ***ASTERISCOS*** con tu información. 'LANGUAGE' es el idioma que deseas aprender, 'NATIVE LANGUAGE' es el primer idioma que hablas. 'NAME' es tu nombre.
--   Assurez-vous de remplacer le texte entouré de ***ASTÉRISQUES*** par vos informations. 'LANGUAGE' est la langue que vous souhaitez apprendre, 'NATIVE LANGUAGE' est la première langue que vous parlez. 'NAME' est votre nom.
--   Stellen Sie sicher, dass Sie den Text, der von ***ASTERISKEN*** umgeben ist, mit Ihren Informationen ersetzen. 'LANGUAGE' ist die Sprache, die Sie lernen möchten, 'NATIVE LANGUAGE' ist die erste Sprache, die Sie sprechen. 'NAME' ist Ihr Name.
--   请确保用 ***星号*** 包围的文本中用您的信息进行替换。'LANGUAGE'是您想要学习的语言，'NATIVE LANGUAGE'是您的第一语言。'NAME'是您的名字。
+-   Make sure to replace text surrounded with \*\*\*ASTERISKS*** with your info. 'LANGUAGE' is the language to learn, 'NATIVE LANGUAGE' is the first language you speak. 'NAME' is your name.
+-   Asegúrate de reemplazar el texto rodeado por \*\*\*ASTERISCOS*** con tu información. 'LANGUAGE' es el idioma que deseas aprender, 'NATIVE LANGUAGE' es el primer idioma que hablas. 'NAME' es tu nombre.
+-   Assurez-vous de remplacer le texte entouré de \*\*\*ASTÉRISQUES*** par vos informations. 'LANGUAGE' est la langue que vous souhaitez apprendre, 'NATIVE LANGUAGE' est la première langue que vous parlez. 'NAME' est votre nom.
+-   Stellen Sie sicher, dass Sie den Text, der von \*\*\*ASTERISKEN*** umgeben ist, mit Ihren Informationen ersetzen. 'LANGUAGE' ist die Sprache, die Sie lernen möchten, 'NATIVE LANGUAGE' ist die erste Sprache, die Sie sprechen. 'NAME' ist Ihr Name.
+-   请确保用 \*\*\*星号*** 包围的文本中用您的信息进行替换。'LANGUAGE'是您想要学习的语言，'NATIVE LANGUAGE'是您的第一语言。'NAME'是您的名字。
 
 ## PROMPT - CLICK THE COPY BUTTON IN THE TOP-RIGHT CORNER
 ```

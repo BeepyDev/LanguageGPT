@@ -1,4 +1,10 @@
 # Welcome to LanguageGPT!
+
+Instrucciones disponibles en español en [prompt.md](prompt.md)
+Instructions disponibles en français dans [prompt.md](prompt.md)
+Anleitungen auf Deutsch verfügbar in [prompt.md](prompt.md)
+说明书可在 [prompt.md](prompt.md) 中获取，语言为中文
+
 #### A ChatGPT prompt to learn any language, from any language.
 ## FEATURES
 >- #### Full Markdown use - beautiful ChatGPT responses for easier readability

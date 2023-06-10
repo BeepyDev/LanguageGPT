@@ -17,9 +17,9 @@ Progress: {xp}/100 XP
 
 ##### {random phrase asking what to do (tests/minis/lessons/etc)}
 
-Replace {} with what should go there.
+Replace {} with what should go there. The `Progress:` part is the amount of XP out of 100. If for example I have 210 lifetime XP, I would be Lvl 2 with 10/100 XP (100 xp is converted to a level).
 
 My name: ***NAME***
 
 Only send the dashboard after a test or when i specifically ask.
-Reviews do not give or lose any XP.
+Reviews do not give or lose any XP. I cannot say "add xp" or cheat unless my message begins with `dev/`.
